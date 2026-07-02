@@ -1,0 +1,91 @@
+SaleMonth,ProductType,TotalSales,UniqueCustomers
+2022-01,Accessories,4,1
+2022-01,Clothing,13,3
+2022-01,Frame,9,2
+2022-01,"Mountain Bikes",30,4
+2022-01,Nuts,34,6
+2022-01,Other,57,8
+2022-01,"Road Bikes",14,4
+2022-01,"Touring Bikes",2,1
+2022-01,Wheels/Tires,3,1
+2022-02,Accessories,5,1
+2022-02,Frame,7,1
+2022-02,"Mountain Bikes",10,1
+2022-02,Nuts,4,1
+2022-02,Other,28,5
+2022-02,"Road Bikes",12,3
+2022-03,Clothing,4,1
+2022-03,Frame,4,1
+2022-03,"Mountain Bikes",8,1
+2022-03,Nuts,17,5
+2022-03,Other,56,11
+2022-03,"Road Bikes",14,3
+2022-03,"Touring Bikes",3,1
+2022-04,Accessories,6,1
+2022-04,Clothing,9,1
+2022-04,Frame,33,5
+2022-04,"Mountain Bikes",10,1
+2022-04,Nuts,32,4
+2022-04,Other,42,7
+2022-04,"Road Bikes",18,4
+2022-04,"Touring Bikes",3,1
+2022-04,Wheels/Tires,10,1
+2022-05,Clothing,6,1
+2022-05,Frame,14,4
+2022-05,"Mountain Bikes",9,1
+2022-05,Nuts,26,5
+2022-05,Other,49,8
+2022-05,"Road Bikes",16,2
+2022-05,"Touring Bikes",13,2
+2022-06,Accessories,4,1
+2022-06,Clothing,34,4
+2022-06,Frame,34,5
+2022-06,"Mountain Bikes",9,2
+2022-06,Nuts,21,3
+2022-06,Other,27,6
+2022-06,"Road Bikes",11,2
+2022-06,"Touring Bikes",4,1
+2022-07,Accessories,5,1
+2022-07,Brakes,7,1
+2022-07,Clothing,3,1
+2022-07,Frame,22,3
+2022-07,"Mountain Bikes",13,3
+2022-07,Other,25,7
+2022-07,"Road Bikes",30,5
+2022-07,"Touring Bikes",4,1
+2022-07,Wheels/Tires,7,1
+2022-08,Frame,49,7
+2022-08,"Mountain Bikes",25,4
+2022-08,Nuts,10,2
+2022-08,Other,62,15
+2022-08,"Road Bikes",11,2
+2022-08,"Touring Bikes",5,1
+2022-08,Wheels/Tires,13,2
+2022-09,Accessories,2,1
+2022-09,Clothing,4,2
+2022-09,Frame,16,3
+2022-09,Nuts,55,7
+2022-09,Other,60,10
+2022-09,"Touring Bikes",3,1
+2022-09,Wheels/Tires,25,4
+2022-10,Clothing,9,2
+2022-10,Frame,18,3
+2022-10,"Mountain Bikes",17,3
+2022-10,Nuts,18,3
+2022-10,Other,57,9
+2022-10,"Road Bikes",15,3
+2022-10,"Touring Bikes",19,2
+2022-10,Wheels/Tires,4,1
+2022-11,Clothing,7,1
+2022-11,Frame,43,7
+2022-11,"Mountain Bikes",17,3
+2022-11,Nuts,20,4
+2022-11,Other,57,11
+2022-11,"Touring Bikes",12,2
+2022-12,Frame,6,1
+2022-12,"Mountain Bikes",2,1
+2022-12,Nuts,22,4
+2022-12,Other,65,11
+2022-12,"Road Bikes",19,3
+2022-12,"Touring Bikes",17,3
+2022-12,Wheels/Tires,3,1

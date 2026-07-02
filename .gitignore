@@ -1,0 +1,7 @@
+# System files
+.DS_Store
+__pycache__/
+*.pyc
+
+# MySQL Workbench local files
+*.mwb.bak

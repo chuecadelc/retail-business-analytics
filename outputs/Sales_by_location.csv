@@ -1,0 +1,31 @@
+Location,ProductType,TotalSales
+London,Other,120
+Glasgow,Other,109
+Birmingham,Other,106
+Newcastle,Other,104
+Leeds,Other,83
+London,Frame,74
+Birmingham,Nuts,66
+Manchester,Other,63
+Newcastle,Nuts,57
+Newcastle,"Mountain Bikes",49
+Birmingham,Frame,48
+Glasgow,Nuts,40
+London,"Road Bikes",40
+Manchester,Frame,40
+Birmingham,Clothing,37
+Glasgow,Frame,37
+London,"Mountain Bikes",36
+Birmingham,"Road Bikes",35
+Leeds,Nuts,35
+Leeds,"Road Bikes",35
+Manchester,Nuts,32
+Leeds,Frame,31
+Newcastle,Clothing,30
+London,Nuts,29
+Birmingham,"Touring Bikes",26
+Newcastle,Frame,25
+Manchester,"Road Bikes",24
+Leeds,"Mountain Bikes",24
+Glasgow,"Touring Bikes",21
+Birmingham,"Mountain Bikes",21
